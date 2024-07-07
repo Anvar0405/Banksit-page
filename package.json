@@ -1,0 +1,11 @@
+{
+  "name": "bankistpage",
+  "version": "1.0.0",
+  "description": "Bank Page",
+  "main": "script.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Anvar Otamurodov",
+  "license": "ISC"
+}
